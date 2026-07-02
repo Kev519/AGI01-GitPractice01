@@ -1,4 +1,4 @@
-name: agilab_env
+name: agilab_pyTorch_pratice
 channels:
   - pytorch
   - nvidia
